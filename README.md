@@ -1,4 +1,4 @@
-# Survivor selection for the plant propagation algorithm (PPA)
+# Survivor Selection in a Crossoverless Evolutionary Algorithm
 
 This repository presents the code used for the Evo* conference submittion: Evolutionary Algorithm Optimization: Survivor selection in the plant propagation algorithm.
 

@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+1,roulette_wheel,Rastrigrin,20,0,85.32888527486651

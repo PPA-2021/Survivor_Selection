@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+6,roulette_wheel,Rosenbrock,5,0,38.39598281419557

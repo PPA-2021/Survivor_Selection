@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+4,mupluslambda,Griewank,100,0,17.288797714815964

@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+6,linear_ranking,Sphere,50,0,1258.2943622163198

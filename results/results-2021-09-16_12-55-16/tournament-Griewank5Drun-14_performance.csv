@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+14,tournament,Griewank,5,0,0.20468030122913738

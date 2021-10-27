@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+7,mulambda,Rastrigrin,100,0,1195.2180035036968

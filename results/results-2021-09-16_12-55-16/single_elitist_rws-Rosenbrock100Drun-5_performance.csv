@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+5,single_elitist_rws,Rosenbrock,100,0,2711.7880376135113

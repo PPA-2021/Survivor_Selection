@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+5,single_elitist_rws,Ellipse,5,0,491.14903405804716

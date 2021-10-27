@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+9,single_elitist_rws,Martin-Gaddy,2,0,1.837810538498755e-05

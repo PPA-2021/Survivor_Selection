@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+10,roulette_wheel,Goldstein-Price,2,3,3.0024755560733913

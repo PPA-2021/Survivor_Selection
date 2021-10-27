@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+8,no_replacement_tournament,Ellipse,5,0,486.7471678191108

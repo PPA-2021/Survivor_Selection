@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+0,linear_ranking,Griewank,50,0,13.407366033074355

@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+14,linear_ranking,Ellipse,50,0,1026870.6251245592

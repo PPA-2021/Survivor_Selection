@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+0,roulette_wheel,Griewank,5,0,0.37754218839934983

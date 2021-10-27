@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+14,mulambda,Schwefel,20,0,2914.5946671528354

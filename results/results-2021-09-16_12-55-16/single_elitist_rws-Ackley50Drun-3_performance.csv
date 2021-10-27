@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+3,single_elitist_rws,Ackley,50,0,20.32761906213426

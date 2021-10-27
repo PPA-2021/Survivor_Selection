@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+1,mulambda,Ackley,2,0,0.7169812752637204

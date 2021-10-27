@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+4,mulambda,Ellipse,10,0,5547.864112422708

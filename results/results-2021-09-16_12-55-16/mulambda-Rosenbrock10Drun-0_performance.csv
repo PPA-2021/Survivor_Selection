@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+0,mulambda,Rosenbrock,10,0,14.8921186042728

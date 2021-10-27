@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+3,mupluslambda,Rosenbrock,100,0,2136.102124001465

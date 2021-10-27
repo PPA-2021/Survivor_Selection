@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+12,single_elitist_tournament,Schwefel,10,0,1261.4554835045196

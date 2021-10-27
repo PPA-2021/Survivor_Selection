@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+4,no_replacement_tournament,Rastrigrin,50,0,422.8689622900663

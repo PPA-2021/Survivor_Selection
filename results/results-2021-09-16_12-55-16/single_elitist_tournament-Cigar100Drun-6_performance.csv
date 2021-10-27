@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+6,single_elitist_tournament,Cigar,100,0,9214648.193325862

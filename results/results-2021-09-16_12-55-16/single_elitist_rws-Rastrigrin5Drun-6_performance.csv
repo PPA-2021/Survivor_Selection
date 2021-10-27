@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+6,single_elitist_rws,Rastrigrin,5,0,6.377695349067281

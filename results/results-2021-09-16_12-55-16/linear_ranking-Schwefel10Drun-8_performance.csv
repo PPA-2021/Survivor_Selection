@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+8,linear_ranking,Schwefel,10,0,1492.8420941753834

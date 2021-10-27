@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+14,roulette_wheel,Ellipse,100,0,30660681.892457046

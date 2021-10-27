@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+8,mulambda,Goldstein-Price,2,3,3.0002068074287243

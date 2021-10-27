@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+1,roulette_wheel,Schwefel,100,0,27007.54997754228

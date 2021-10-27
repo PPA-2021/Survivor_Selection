@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+7,single_elitist_rws,Sphere,100,0,1821.099531987783

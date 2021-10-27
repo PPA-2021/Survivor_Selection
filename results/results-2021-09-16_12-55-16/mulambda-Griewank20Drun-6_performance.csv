@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+6,mulambda,Griewank,20,0,2.2913054811399785

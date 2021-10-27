@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+6,linear_ranking,Tablet,50,0,29876.209398701976

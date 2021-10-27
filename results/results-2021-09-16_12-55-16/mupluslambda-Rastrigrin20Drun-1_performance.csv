@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+1,mupluslambda,Rastrigrin,20,0,88.46189202454093

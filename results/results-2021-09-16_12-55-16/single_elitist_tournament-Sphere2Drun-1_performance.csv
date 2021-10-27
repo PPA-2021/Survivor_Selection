@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+1,single_elitist_tournament,Sphere,2,0,0.0006953923504505322

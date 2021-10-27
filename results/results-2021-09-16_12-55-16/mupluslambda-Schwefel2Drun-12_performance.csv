@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+12,mupluslambda,Schwefel,2,0,0.024297766521840458

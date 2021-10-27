@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+14,single_elitist_tournament,Rosenbrock,50,0,255.55939994527418

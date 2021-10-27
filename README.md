@@ -1,6 +1,7 @@
 # Survivor Selection in a Crossoverless Evolutionary Algorithm
 
-This repository presents the code used for the Evo* conference submittion: Evolutionary Algorithm Optimization: Survivor selection in the plant propagation algorithm.
+This repository presents the code used for the Evo* conference submittion: Survivor Selection in a
+Crossoverless Evolutionary Algorithm.
 
 the file structure is as follows
 

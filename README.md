@@ -16,4 +16,4 @@ the file structure is as follows
     - SurvivorSelection.py  : All implemented survivor selection methods
 - Extras : contains the heatmap in 2d of the survivor selection mehtods
 - notebooks:
-    - brouwer_vandenberg_2022/brouwer_vdberg_2022_data_analysis.ipynb : the most recent notebook used for analysing data and exporting graphs
+    - analysis.ipynb : the notebook used for analysing data and exporting graphs

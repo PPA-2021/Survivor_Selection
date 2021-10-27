@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+3,linear_ranking,Cigar,100,0,68440718.55532578

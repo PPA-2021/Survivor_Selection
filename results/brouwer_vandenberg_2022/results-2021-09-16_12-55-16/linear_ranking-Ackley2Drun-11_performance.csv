@@ -1,0 +1,2 @@
+run_n,selection_method,benchmark_name,dimensions,optimum,best_during run
+11,linear_ranking,Ackley,2,0,0.5813911356354606

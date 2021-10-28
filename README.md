@@ -15,6 +15,6 @@ the file structure is as follows
     - Individual.py         : the class that represents an individual in the search space with all its properties (objective value, fitness value, inputs, etc)
     - PPAProcess.py         : the class containing all plant propagation algorithm components, called upon by the run.py
     - SurvivorSelection.py  : All implemented survivor selection methods
-- Extras : contains the heatmap in 2d of the survivor selection mehtods
+- Extras : contains the heatmap in 2d of the survivor selection mehtods and 5 benchmark [2d] benchmark functions in 2 dimensions
 - notebooks:
     - analysis.ipynb : the notebook used for analysing data and exporting graphs

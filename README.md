@@ -15,6 +15,10 @@ the file structure is as follows
     - Individual.py         : the class that represents an individual in the search space with all its properties (objective value, fitness value, inputs, etc)
     - PPAProcess.py         : the class containing all plant propagation algorithm components, called upon by the run.py
     - SurvivorSelection.py  : All implemented survivor selection methods
-- Extras : contains the heatmap in 2d of the survivor selection mehtods and 5 benchmark [2d] benchmark functions in 2 dimensions
+- Extras : 
+    - heatmap in 2d of all the survivor selection mehtods (2d_heatmap.png)
+    - 5 benchmark [2d] benchmark functions in 2 dimensions (five_2d_functions_in_2d.png)
+    - On all benchmark function instances the number of distinct individuals per generation for the CS, E-RWS, E-TS methods (all-benchmark-distinct-individuals-erws-ets-cs.png)
+    - On all benchmark function instances the median fitness per generation for the CS, E-RWS, E-TS methods (all-benchmark-median-fitness-erws-ets-cs.png)
 - notebooks:
     - analysis.ipynb : the notebook used for analysing data and exporting graphs
